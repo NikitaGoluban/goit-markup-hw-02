@@ -98,7 +98,7 @@ a {
 
 /* Section our team */
 
-.section-team {
+.section-ourteam {
     background-color: #F4F4FD
 }
 
@@ -148,7 +148,9 @@ a {
     color: #434455;
 }
 
-
+.portfolio-item{
+    background-color: #FFFFFF
+}
 .page-footer { 
     background: #2e2f42
 }
